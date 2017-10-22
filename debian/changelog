@@ -1,3 +1,9 @@
+unity-scopes-shell (0.5.9+ubports) xenial; urgency=medium
+
+  * Imported to UBports
+
+ -- UBports auto importer <infra@ubports.com>  Sun, 22 Oct 2017 09:46:22 +0200
+
 unity-scopes-shell (0.5.8+16.10.20161004-0ubuntu1) yakkety; urgency=medium
 
   [ Albert Astals Cid ]
