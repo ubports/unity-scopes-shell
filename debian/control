@@ -20,7 +20,7 @@ Build-Depends: cmake,
                qtdeclarative5-dev-tools,
                qtdeclarative5-qtquick2-plugin,
                qtpositioning5-dev,
-               unity-schemas (>= 7.3.1),
+               unity8-schemas,
                libonline-accounts-client-dev,
                intltool,
 Standards-Version: 3.9.5
@@ -39,7 +39,7 @@ Multi-Arch: same
 Pre-Depends: ${misc:Pre-Depends}
 Depends: ${misc:Depends},
          ${shlibs:Depends},
-         unity-schemas (>= 7.3.1),
+         unity8-schemas,
 Provides: unity-scopes-impl,
           unity-scopes-impl-0,
           unity-scopes-impl-1,
